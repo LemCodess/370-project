@@ -1,2 +1,2 @@
 # 370-project
-CSE 370 Project
+CSE370 Project for Brac University (Summer 2023)
